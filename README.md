@@ -1,5 +1,5 @@
 # ransomware-PoC
-A basic implementation about Cryptographic Ransomware
+A basic implementation of Cryptographic Ransomware
 
 ## Running
 ```bash
